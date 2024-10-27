@@ -12,12 +12,12 @@ body {
     align-items: center;
     min-height: 100vh;
     background: linear-gradient(45deg, #292D73, #26A6A6);
-    overflow-x: hidden; /* Remove rolagem horizontal */
+    overflow-x: hidden;
 }
 
 .container {
     position: relative;
-    width: 90%; /* Ajusta para caber em telas pequenas */
+    width: 90%;
     max-width: 400px;
     display: flex;
     flex-direction: column;
